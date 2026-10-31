@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>All Posts</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav>
+<div class="logo">📝 Realistic Blog</div>
+<div class="links">
+<a href="index.html">Home</a>
+<a href="blog.html">Posts</a>
+</div>
+</nav>
+<h2 class="section-title">All Posts</h2>
+<div id="all-posts" class="posts"></div>
+<script src="script.js"></script>
+</body>
+</html>
